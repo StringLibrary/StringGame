@@ -1,2 +1,2 @@
 # StringGame
-Un para de archivos .h pra facilitar la creación y el aprendizaje del lenguaje C 
+Unos archivos que cabeceras de C con funciones que hise para nada solo para pasar el tiempo escribiendo codigo el objetivo era reducir algo al momento de escribir codigo tengo pensado añadir mas cosas como funciones de audio , imahenes , etc... si les sirve aqui lo tienen eso si recuerden que el primer archio que se agrega y unico es el stringgame.h. Al inicio tenia planificado hacer una libreria exlusicanente para la creacion de juegos de consola o terminal probablemente lo continue
